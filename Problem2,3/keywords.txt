@@ -1,0 +1,56 @@
+The Aerospace & Defense Industries
+Cleveland Electric Laboratories
+US Government
+Boeing
+Raytheon
+Lockheed Martin
+General Dynamics
+Applied Energetics
+US Navy
+US Army
+US Air Force
+Department of Defense
+Sandia
+Los Alamos
+Lawrence Berkeley
+Lawrence Livermore
+Jefferson Laboratory
+Brookhaven National Laboratory
+NASA Glenn Research Centre
+Canada Communications Research
+NASA Goddard Space Flight Center
+NIST
+Aristotle University of Thessaloniki
+Columbia University
+Harvard University
+Massachusetts Institute of Technology
+Northwestern University
+University of Arizona
+University of Bern
+University of Rochester
+University of Central Florida
+UCSD
+UCLA
+University of Liverpool
+University of Southern California
+University of Sydney
+The Telecommunications Industry
+NEC
+Tyco
+AT&T
+Intel
+Ciena
+Fijitsu
+Nortel
+Finisar
+Mintera
+Verizon
+Sumitomo
+L3 Photonics
+Alcatel- Lucent
+The HFC/MSO Industry
+CommScope
+Time Warner Cable
+Pulse Broadband
+Pangrac & Associates Development
+various inde- pendent MSO operators

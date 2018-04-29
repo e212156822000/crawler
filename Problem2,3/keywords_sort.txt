@@ -1,0 +1,53 @@
+Alcatel- Lucent
+Applied Energetics
+Aristotle University of Thessaloniki
+AT&T
+Boeing
+Brookhaven National Laboratory
+Canada Communications Research
+Ciena
+Cleveland Electric Laboratories
+Columbia University
+CommScope
+Department of Defense
+Finisar
+Fujitsu
+General Dynamics
+Harvard University
+Intel
+Jefferson Laboratory
+L3 Photonics
+Lawrence Berkeley
+Lawrence Livermore
+Lockheed Martin
+Los Alamos
+Massachusetts Institute of Technology
+Mintera
+NASA Glenn Research Centre
+NASA Goddard Space Flight Center
+NEC
+NIST
+Nortel
+Northwestern University
+Pangrac & Associates Development
+Pulse Broadband
+Raytheon
+Sandia
+Sumitomo
+The Aerospace & Defense Industries
+The HFC,MSO Industry
+Time Warner Cable
+Tyco
+UCLA
+UCSD
+University of Arizona
+University of Bern
+University of Central Florida
+University of Liverpool
+University of Rochester
+University of Sydney
+US Air Force
+US Army
+US Government
+US Navy
+Verizon
